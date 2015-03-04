@@ -50,6 +50,11 @@ table {
 	border-spacing: 0;
 }
 
+h1 {
+background: url(images_lemon.jpg) no-repeat;
+text-indent: -99999px;
+}
+
 
 /* END RESET */
 
