@@ -25,7 +25,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: Helvetica;
 	vertical-align: baseline;
-	background: url(images/lemon.jpg) no-repeat;
+	background: url(images/lemon.jpg);
 	
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
