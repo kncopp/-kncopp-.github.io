@@ -26,8 +26,7 @@ time, mark, audio, video {
 	font: Helvetica;
 	vertical-align: baseline;
 	background: url(images/lemon.jpg) no-repeat;
-	text-indent: -99999px;
-}
+	
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
