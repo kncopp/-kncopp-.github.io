@@ -56,5 +56,7 @@ img {
 
 
 /* -----------------END RESET---------------- */
-article {padding: 20;}
+article {
+	padding: 20px;
+}
 
