@@ -49,6 +49,10 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
+body {
+	margin:200px;
+}
+
 h1 {
 	font-family:helvetica;
 	font-size:12px;
@@ -59,3 +63,9 @@ h2 {
 	font-family:helvetica;
 	font-size:10px;
 }
+
+h3 {
+	font-family:helvetica;
+	font-size:6px;
+}
+
