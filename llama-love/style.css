@@ -56,14 +56,12 @@ img {
 
 
 /* -----------------END RESET---------------- */
-article {
-	padding: 0px;
-}
+
 
 body {
         padding:80px;
         width:700px;
-        position: relative;
+        position: static;
     }
 
 h2 {
@@ -73,7 +71,10 @@ h2 {
 
 p {
 	font-size:10px;
+
 }
-h1 {font-size:18px;}
+h1 {font-size:18px;
+}
+
 
     

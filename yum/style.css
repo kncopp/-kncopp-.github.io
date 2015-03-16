@@ -49,11 +49,21 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
+body {
+	width:500px;
+	position:relative;
+	text-align:center;
+	font-family:helvetica;
+}
 
+h1 {
+	font-size:18px;
+	font-family:cursive;
+}
 
-background: url(images/lemon.jpg);
-
-#title p { font:Helvetica;}
+h2 {
+	font-size:10px;
+}
 
 
 
