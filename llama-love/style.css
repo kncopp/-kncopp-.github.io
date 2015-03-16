@@ -57,13 +57,23 @@ img {
 
 /* -----------------END RESET---------------- */
 article {
-	padding: 100px;
+	padding: 0px;
 }
 
-     body {
-        padding:20px;
-        width:250px;
+body {
+        padding:80px;
+        width:700px;
         position: relative;
     }
+
+h2 {
+	font-size:12px;
+	font-color:gray;
+}
+
+p {
+	font-size:10px;
+}
+h1 {font-size:18px;}
 
     
