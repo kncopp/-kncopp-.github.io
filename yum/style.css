@@ -58,12 +58,24 @@ body {
 
 h1 {
 	font-size:18px;
-	font-family:cursive;
+	font-family:impact;
+	background-color:yellow;
+	font-color:white;
 }
 
 h2 {
 	font-size:10px;
 }
+
+#title {font-color:white;}
+
+a {font-family:impact;
+   background-color:yellow;
+   text-decoration:none;
+   font-color:black;
+   width:500px;}
+
+
 
 
 
