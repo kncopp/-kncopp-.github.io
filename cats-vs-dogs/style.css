@@ -69,3 +69,34 @@ h3 {
 	font-size:6px;
 }
 
+a {text-decoration:none;
+   font-family:helvetica;
+   font-size:10px;
+   }
+
+   #main-menu  {
+    position:absolute;
+    top:20px;
+    right:20px;
+    background-color:teal;
+    float:right;
+    border-radius:5px;
+    box-shadow:4px 4px 4px #ddd;
+    padding:0 10px;
+    margin:0 20px;
+ }
+  #main-menu li { 
+    float:left; 
+    border-right:3px solid #fff;
+  }
+  #main-menu li.last { border:0px; }
+  #main-menu li a { display:block; 
+    padding:15px 15px;
+    font-size:17px;
+    color:white;
+    font-family:sans-serif;
+    text-transform:uppercase;
+    text-decoration:none;
+  }
+  #main-menu li a:hover { background-color:#DDD; }
+
