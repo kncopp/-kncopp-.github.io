@@ -58,23 +58,33 @@ img {
 /* -----------------END RESET---------------- */
 
 
-body {
-        padding:80px;
-        width:700px;
-        position: static;
+article {
+   
+       float:left;
+       width:300px;
+       padding:20px;
+
     }
+
+img {
+	float:left;
+	padding:5px;
+	margin:5px;
+	width:40%;
+	}
 
 h2 {
 	font-size:12px;
 	font-color:gray;
-}
+	}
 
-p {
-	font-size:10px;
 
-}
-h1 {font-size:18px;
-}
+	}
+
+h1 {font-size:12px;
+	}
+
+p {font-size:10px;}
 
 
     

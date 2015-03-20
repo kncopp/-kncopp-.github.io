@@ -54,8 +54,8 @@ body {
 }
 
 h1 {
-	font-family:helvetica;
-	font-size:12px;
+	font-family:Impact;
+	font-size:15px;
 	font-weight:bold;
 }
 
@@ -75,12 +75,8 @@ a {text-decoration:none;
    }
 
    #main-menu  {
-    position:absolute;
-    top:20px;
-    right:20px;
-    background-color:teal;
-    float:right;
-    border-radius:5px;
+    background-color:gray;
+    float:left;
     box-shadow:4px 4px 4px #ddd;
     padding:0 10px;
     margin:0 20px;
@@ -94,9 +90,12 @@ a {text-decoration:none;
     padding:15px 15px;
     font-size:17px;
     color:white;
-    font-family:sans-serif;
+    font-family:impact;
     text-transform:uppercase;
     text-decoration:none;
   }
   #main-menu li a:hover { background-color:#DDD; }
+
+  #dog {float:left;}
+  #cat {float:left;}
 
