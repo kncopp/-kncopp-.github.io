@@ -49,53 +49,20 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
-body {
-	margin:200px;
-}
+article {float:left;
+          margin:20px;}
 
-h1 {
-	font-family:Impact;
-	font-size:15px;
-	font-weight:bold;
-}
+p{width:300px;}
 
-h2 {
-	font-family:helvetica;
-	font-size:10px;
-}
+h1 {font-size:18px;}
 
-h3 {
-	font-family:helvetica;
-	font-size:6px;
-}
+p {font-size:12px;}
 
-a {text-decoration:none;
-   font-family:helvetica;
-   font-size:10px;
-   }
+#images {font-size:10px;
+          float:left;}
 
-   #main-menu  {
-    background-color:gray;
-    float:left;
-    box-shadow:4px 4px 4px #ddd;
-    padding:0 10px;
-    margin:0 20px;
- }
-  #main-menu li { 
-    float:left; 
-    border-right:3px solid #fff;
-  }
-  #main-menu li.last { border:0px; }
-  #main-menu li a { display:block; 
-    padding:15px 15px;
-    font-size:17px;
-    color:white;
-    font-family:impact;
-    text-transform:uppercase;
-    text-decoration:none;
-  }
-  #main-menu li a:hover { background-color:#DDD; }
+#martha {font-size:10px;
+          float:right;}
 
-  #dog {float:left;}
-  #cat {float:left;}
+
 
