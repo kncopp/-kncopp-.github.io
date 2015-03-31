@@ -63,6 +63,8 @@ article {
        float:left;
        width:300px;
        padding:20px;
+       position:relative;
+
 
     }
 
@@ -74,17 +76,21 @@ img {
 	}
 
 h2 {
-	font-size:12px;
+	font-size:8px;
 	font-color:gray;
+	font:helvetica;
 	}
 
 
 	}
 
 h1 {font-size:12px;
+	font-weight:bold;
+	font:helvetica;
 	}
 
-p {font-size:10px;}
+p {font-size:10px;
+font:helvetica;}
 
 
     

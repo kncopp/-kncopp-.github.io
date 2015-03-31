@@ -50,19 +50,58 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 article {float:left;
-          margin:20px;}
+		position:relative;
+		left:auto;
+		right:auto;
+        margin:0px;
+        padding:0px;
+        font-size:100%;
+        font:inherit;
+        vertical-align:baseline;
+        display:block;
+        margin:0 auto;
+  width:960px;
+
+      	}
 
 p{width:300px;}
 
 h1 {font-size:18px;}
 
-p {font-size:12px;}
+p {font-size:12px;
+margin:0 auto;
+  width:960px;}
+
+footer {width:700px;}
+
+a {		text-decoration:none;
+		text-transform:uppercase;
+		font-color:black;
+		}
+
+header 	{text-align:center;}
+
+#main-menu li {
+		display:inline-block;
+		padding:20px;
+		}
+
+#main-menu {border-top:2px solid black;
+			border-bottom:2px solid black;
+			}
+
 
 #images {font-size:10px;
-          float:left;}
+		clear:both;
+        float:left;}
 
 #martha {font-size:10px;
-          float:right;}
+         float:right;
+      	clear:both;}
 
+img .logo	{
+		display:inline-block;
+		text-align:center;
+		}
 
 
