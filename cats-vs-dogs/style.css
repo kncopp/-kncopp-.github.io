@@ -56,17 +56,19 @@ article {float:left;
         margin:0px;
         padding:0px;
         font-size:100%;
-        font:inherit;
+        font-family:inherit;
         vertical-align:baseline;
         display:block;
         margin:0 auto;
-  width:960px;
+ 		width:960px;
+border-bottom:3px solid black ;
 
       	}
 
 p{width:300px;}
 
-h1 {font-size:18px;}
+h1 {font-size:20px;
+	font-weight:bold;}
 
 p {font-size:12px;
 margin:0 auto;
@@ -77,31 +79,48 @@ footer {width:700px;}
 a {		text-decoration:none;
 		text-transform:uppercase;
 		font-color:black;
+		font-family:serif;
+		font-weight:bold;
+		font-size:20px;
+		width:900px;
+		padding:0px;
+		margin:0px;
 		}
 
 header 	{text-align:center;}
 
 #main-menu li {
 		display:inline-block;
-		padding:20px;
+		padding:10px;
 		}
 
-#main-menu {border-top:2px solid black;
-			border-bottom:2px solid black;
+#main-menu {border-top:3px solid black;
+			border-bottom:3px solid black;
+			padding:0px;
+			margin:0px;
 			}
 
 
 #images {font-size:10px;
-		clear:both;
-        float:left;}
+		position:absolute;
+		left:330px;
+		bottom:200px;}
 
 #martha {font-size:10px;
-         float:right;
-      	clear:both;}
+         position:absolute;
+         right:330px;
+         bottom:200px;
+      }
 
 img .logo	{
 		display:inline-block;
 		text-align:center;
 		}
+body	{margin:0 auto; 
+		width:600px;
+		}
 
+img {width:290px;}
+
+#wiki {font-color:red};}
 
