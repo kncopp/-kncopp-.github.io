@@ -53,17 +53,19 @@ article {float:left;
 		position:relative;
 		left:auto;
 		right:auto;
-        margin:0px;
-        padding:0px;
-        font-size:100%;
+       	font-size:100%;
         font-family:inherit;
         vertical-align:baseline;
         display:block;
         margin:0 auto;
  		width:960px;
-border-bottom:3px solid black ;
+		border-bottom:3px solid black ;
+		max-width:100%;
 
       	}
+
+
+
 
 p{width:300px;}
 
@@ -71,14 +73,14 @@ h1 {font-size:20px;
 	font-weight:bold;}
 
 p {font-size:12px;
-margin:0 auto;
+	margin:0 auto;
   width:960px;}
 
 footer {width:700px;}
 
 a {		text-decoration:none;
 		text-transform:uppercase;
-		font-color:black;
+		color:black;
 		font-family:serif;
 		font-weight:bold;
 		font-size:20px;
@@ -102,25 +104,30 @@ header 	{text-align:center;}
 
 
 #images {font-size:10px;
-		position:absolute;
-		left:330px;
-		bottom:200px;}
+		float:left;
+		width:80%;}
 
 #martha {font-size:10px;
-         position:absolute;
-         right:330px;
-         bottom:200px;
+        float:right;
       }
 
 img .logo	{
 		display:inline-block;
 		text-align:center;
+		max-width:100%;
 		}
+
 body	{margin:0 auto; 
 		width:600px;
+		max-width:100%;
 		}
 
-img {width:290px;}
+article img {width:290px;
+			max-width:100%;
+		}
 
-#wiki {font-color:red};}
+img { max-width:100% }
+
+
+
 
