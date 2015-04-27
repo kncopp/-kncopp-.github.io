@@ -58,5 +58,43 @@ table {
 
 
 
-h1 {font-family:helvetica
-	font-size:15px;}
+h1 {font-family:helvetica;
+	font-size:20px;}
+
+#katie {position:absolute;
+		top:30px;
+		left:30px;
+		}
+
+h2 {font-family:helvetica;
+	font-size:10px;}
+
+#nav li {float:left;
+
+	  }
+
+
+a {text-decoration:none;}
+
+h3 {font-family:helvetica;
+	font-size:10px;
+	color:white;}
+
+#about {background-color:gray;
+		width:300px;
+		height:100px;
+		padding:20px;
+		position:absolute;
+		top:300px;
+		left:200px;
+		float:left;
+		text-decoration:none;}
+
+
+
+
+img {width:100%;}
+
+img #images {width:30%;}
+
+
