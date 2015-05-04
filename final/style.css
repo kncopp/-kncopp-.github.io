@@ -59,18 +59,19 @@ table {
 
 
 h1 {font-family:helvetica;
-	font-size:20px;}
+	font-size:30px;}
 
 #katie {position:absolute;
-		top:30px;
-		left:30px;
+		top:60px;
+		left:100px;
 		}
 
 h2 {font-family:helvetica;
 	font-size:10px;}
 
-#nav li {float:left;
-
+#nav li {float:right;
+		padding:10px;
+		padding-right:20px;
 	  }
 
 
@@ -88,13 +89,17 @@ h3 {font-family:helvetica;
 		top:300px;
 		left:200px;
 		float:left;
-		text-decoration:none;}
+		text-decoration:none;
+		}
 
 
 
 
 img {width:100%;}
 
-img #images {width:30%;}
+img #images {width:100px;}
+
+a img {width:30%;}
+
 
 
